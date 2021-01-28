@@ -1,0 +1,15 @@
+.wapper{
+
+}
+/*让定宽块状元素左右居中*/
+.container{
+    width: 1190px;
+    margin: auto auto;  /*左右居中*/
+}
+.clearfloat:after{
+    content: "#";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    height: 0;
+}

@@ -1,0 +1,26 @@
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form
+,fieldset,legend,input,textarea,select
+{margin:0;padding:0}
+body{
+	color: #606060;
+    font:0.75em "微软雅黑",Verdana,Tahoma,Arial,Helvetica,"宋体",sans-serif;
+    background:#F2F2F2;
+    -webkit-text-size-adjust:100%;}
+a{color:#2d374b;text-decoration:none;cursor: pointer}
+a:hover{color:#005AAA;text-decoration:none}
+em{font-style:normal}
+i{font-style: normal}
+li{list-style:none}
+img{border:0;vertical-align:middle}
+table{border-collapse:collapse;border-spacing:0}
+p{word-wrap:break-word}
+
+
+/*网页的初始化*/
+
+
+
+
+
+
+
